@@ -1,0 +1,12 @@
+/* src/components/CustomText.module.css */
+.rubikFont {
+    font-family: 'Rubik', sans-serif;
+}
+
+.manropeFont {
+    font-family: 'Manrope', sans-serif;
+}
+
+.robotoFont {
+    font-family: 'Roboto', sans-serif;
+}
